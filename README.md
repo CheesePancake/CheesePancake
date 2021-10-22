@@ -1,7 +1,7 @@
 <h1 align="center">Hai nama saya M. Alif Aldiansyah</h1>
 <h3 align="center">Seorang mahasiswa yang belajar suka suka</h3>
 
-<p align="left"> <a href="https://twitter.com/@tama_chan0612" target="blank"><img src="https://img.shields.io/twitter/follow/@tama_chan0612?logo=twitter&style=for-the-badge" alt="@tama_chan0612" /></a> </p>
+
 
 - 🔭 Saya sedang mengerjakan [TamaV2 DiscordBot](https://github.com/Uryaaa/Tama0612)
 

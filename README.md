@@ -1,5 +1,5 @@
 <h1 align="center">Hai nama saya M. Alif Aldiansyah</h1>
-<h3 align="center">Seorang mahasiswa yang belajar suka suka</h3>
+<h3 align="center">Seorang developer yang belajar suka-suka</h3>
 
 
 
